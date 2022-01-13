@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792160303548",
+    "firebase_url": "https://ibldesignloginregister.firebaseio.com",
+    "project_id": "ibldesignloginregister",
+    "storage_bucket": "ibldesignloginregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792160303548:android:4382926f142673db",
+        "android_client_info": {
+          "package_name": "com.example.ibl_design_login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792160303548-crrfjhj4t4v5qqubd0q5sfoof60kvp4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibl_design_login_register",
+            "certificate_hash": "16c0074db740dcfa049f3d7559d59c38e1accdb1"
+          }
+        },
+        {
+          "client_id": "792160303548-bldft1k7tq3976cr8q4rcihb8g0obvl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIP04ea1bW_NiENjLd89tRobrhN-azzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792160303548-bldft1k7tq3976cr8q4rcihb8g0obvl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
